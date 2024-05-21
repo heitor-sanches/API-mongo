@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "node app.js",
-    "test:performance": "artillery run --output report.json artillery-config.yml" 
+    "test:performance": "artillery run --output report.json artillery-config.yml"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
